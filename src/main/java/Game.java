@@ -17,7 +17,7 @@ public class Game {
         // TODO Implement roll() method for Tav.
         // TODO Print Critical Success & Critical Failure.
         // TODO Check for 3 successful monster encounters.
-        // TODO Print GAME OVER or winning message. 
+        // TODO Print GAME OVER or winning message!
         
     }
 
